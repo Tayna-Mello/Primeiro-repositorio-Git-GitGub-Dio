@@ -1,1 +1,12 @@
-Coamandos Git
+## Comandos Git
+# Comandos básicos Git Bash
+
+Iniciar  um repositório: git init
+Apagar um repositório: rm -rf .git
+Listar arquivos modificados: git  status
+Voltar a versão anterior: git checkout .
+apagar novos arquivos (que ainda não foram adicionados ao stage): git clean -df
+Remover arquivos do stage: git reset
+Desfazer último commit: git revert HEAD
+
+

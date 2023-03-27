@@ -8,5 +8,11 @@ Voltar a versão anterior: git checkout .
 apagar novos arquivos (que ainda não foram adicionados ao stage): git clean -df
 Remover arquivos do stage: git reset
 Desfazer último commit: git revert HEAD
+Renomear commit: git commit --amend
+Listar branchs: git branch
+Mudar de uma branch para outra: git checkout nome-da-branch
+Para criar uma nova branche: git checkout -b minha-nova-branch
+
+
 
 
